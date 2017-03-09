@@ -30,7 +30,7 @@ namespace FactorialTest
 
             //verification
             //Assert.AreEqual(1, result);
-            Assert.AreEqual(100, result);
+            Assert.AreEqual(1, result);
         }
 
         [TestMethod]
